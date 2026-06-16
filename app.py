@@ -63,7 +63,7 @@ st.markdown(
 )
 
 # ---------------- CENTER IMAGE ----------------
-left, center, right = st.columns([2,3,1])
+left, center, right = st.columns([1,3,1])
 
 with center:
     st.image(

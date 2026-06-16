@@ -1,7 +1,7 @@
 A machine learning web application that predicts house prices.
 
 ## 🚀 Live Demo
-https://your-app-name.streamlit.app
+https://housepricepredicthimashooo.streamlit.app/
 
 ## Features
 - Predict house prices using Machine Learning
